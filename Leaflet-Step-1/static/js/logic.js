@@ -1,9 +1,8 @@
 // Creating map object
 var map = L.map("map", {
     center: [37.0902, -95.7129],
-    // center: [31.7917, -7.0926],
     zoom: 4
-  });
+    });
 
 // Adding tile layer
 L.tileLayer('https://api.mapbox.com/styles/v1/{id}/tiles/{z}/{x}/{y}?access_token={accessToken}', {	
