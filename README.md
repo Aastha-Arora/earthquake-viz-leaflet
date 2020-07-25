@@ -1,6 +1,8 @@
 ## Visualizing Data with Leaflet
 Geomaps to visualize the earthquake data using HTML, CSS, JavaScript and Leaflet.js
 
+The webpages are hosted on `GitHub pages`
+
 ### Dataset
 'All Earthquakes from the Past 7 Days' data from the [USGS GeoJSON Feed](http://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php)
 
