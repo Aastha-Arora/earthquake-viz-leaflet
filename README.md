@@ -23,13 +23,20 @@ https://aastha-arora.github.io/leaflet-challenge/Leaflet-Step-1/
 * Popups are included to provide additional information about the earthquake when a marker is clicked.
 * A legend is also displayed to provide context for the map data.
 
+![](https://github.com/Aastha-Arora/leaflet-challenge/blob/master/Leaflet-Step-1/static/images/Leaflet%20Step%201.png)
+
+
 
 ### Leaflet Step 2
 
 **Webpage Link:**
 https://aastha-arora.github.io/leaflet-challenge/Leaflet-Step-2/
 
-Additional data on [tectonicplates](https://github.com/fraxen/tectonicplates) is ploted along with the earthquake data 
+Additional data on [tectonic plates](https://github.com/fraxen/tectonicplates) is ploted along with the earthquake data 
 to illustrate the relationship between tectonic plates and seismic activity.
 * A map was created using Map layer controls that consist of three base map layers (Satellite, Grayscale, Outdoors)
 and two filter overlays (Tectonic Plates and Earthquake data) that can be turned on and off independently.
+
+![](https://github.com/Aastha-Arora/leaflet-challenge/blob/master/Leaflet-Step-2/static/images/Leaflet%20Step%202.png)
+
+
